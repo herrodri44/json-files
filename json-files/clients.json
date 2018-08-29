@@ -1,0 +1,38 @@
+[
+	 {
+        "codigo": 1, 
+        "nombre": "Perez S.A", 
+        "telefono": "4546-8974", 
+        "direccion": "Varela 90", 
+        "tipo_de_documento": "CUIT", 
+        "nro": "56-55589465-6", 
+        "deuda": 200.000,00
+    }, 
+    {
+        "codigo": 2, 
+        "nombre": "Supermercado Xi", 
+        "telefono": "4895-6872", 
+        "direccion": "Rivadavia 8200", 
+        "tipo_de_documento": "CUIT", 
+        "nro": "86-20356745-6", 
+        "deuda": 0
+    }, 
+    {
+        "codigo": 3, 
+        "nombre": "Centro de Compras Caballito", 
+        "telefono": "4256-8521", 
+        "direccion": "Yerbal 90", 
+        "tipo_de_documento": "CUIT", 
+        "nro": "78-33564852-3", 
+        "deuda": 0
+    },
+	{
+        "codigo": 4, 
+        "nombre": "Kiosco El JEVY", 
+        "telefono": "7812-7891", 
+        "direccion": "Acoyte 60", 
+        "tipo_de_documento": "CUIT", 
+        "nro": "45-12356946-1", 
+        "deuda": 90,00
+    }
+]
